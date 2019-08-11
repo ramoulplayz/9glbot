@@ -1,6 +1,6 @@
-token=NjA2NTE1MjM1NTM2MjQwNjQw.XVBIAw.OFHCrd4p666NdgrbT7PuoN8iMJg
+token=NjA2NTE1MjM1NTM2MjQwNjQw.XVBIqg.1ZJKuzQBBYXStpzF-6oSorJpF90
 owner=  410848175117565953
-prefix= !9l
+prefix= 9gl
 game= 9a3da.life
 stayinchannel=true
 songinstatus=false
