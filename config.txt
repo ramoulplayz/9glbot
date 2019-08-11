@@ -1,4 +1,4 @@
-token= NjA2NTE1MjM1NTM2MjQwNjQw.XVBIqg.1ZJKuzQBBYXStpzF-6oSorJpF90
+token= "NjA2NTE1MjM1NTM2MjQwNjQw.XVBIqg.1ZJKuzQBBYXStpzF-6oSorJpF90"
 owner=  410848175117565953
 prefix= 9gl
 game= 9a3da.life
